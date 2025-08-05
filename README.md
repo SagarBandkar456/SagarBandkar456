@@ -11,11 +11,9 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is Full stack developer (.Net core + Angular )
+- 🙋‍♂️ All about me is Senior Full stack developer (.Net core + Angular + AzureCloud)
 
 - 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `Azure devops`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
